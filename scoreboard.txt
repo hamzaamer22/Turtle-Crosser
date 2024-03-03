@@ -21,7 +21,3 @@ class Scoreboard(Turtle):
         self.goto(0, -10)
         self.write(f"Game Over", align="center", font=("Arial", 40))
 
-    def user_wins(self):
-        self.goto(0, -50)
-        self.write(f"How the heck did you do it.\nUnreal\nYOU WINNNNNNN\n SUIIIIIIIII", align="center", font=("Arial", 36))
-

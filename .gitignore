@@ -1,0 +1,10 @@
+both have the exact same background, player, barrier, car and scoreboard class
+(just one function user_wins is added in scoreboard class, the rest is all the exact same)
+
+
+the main of both files is different which too in the levelled is a continuation of the
+previous one to add further levels and more things to perform
+
+
+JUST A NOTE ON THE DIFFERENCES OF THE TWO FILES
+""" NOT TO BE ADDED IN THE CODE """
